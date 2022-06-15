@@ -9,8 +9,8 @@ public class JunitClass {
 	@Test
 	public void setUp() {
 	
-	String str ="hi Ajay welcome to TvsCredit";
-	assertEquals("hi Ajay welcome to TvsCredit",str);
+	String str ="hi Ajay welcome to hcl";
+	assertEquals("hi Ajay welcome to hcl",str);
 	
 	}
 	
